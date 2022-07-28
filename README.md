@@ -1,2 +1,2 @@
-# Earth-Curvuature-Calculations
-Earth Curvuature Calculations
+# Earth-Curvature-Calculations
+Earth Curvature Calculations
